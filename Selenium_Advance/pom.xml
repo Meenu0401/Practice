@@ -3,6 +3,10 @@
   <groupId>Advance_Selenium</groupId>
   <artifactId>Selenium_Advance</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+   <properties>
+	  <maven.compiler.target>17</maven.compiler.target>
+	  <maven.compiler.source>17</maven.compiler.source>
+  </properties>
   <profiles>
 	  <profile>
 		  <id>FR</id>
